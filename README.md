@@ -1,12 +1,8 @@
-<p align="center">Sou o Deivid Gomes estudante de tecnologia.</p>&nbsp;
+<p align="center">Olá! Meu nome é Deivid Gomes, sou estudante de Análise e Desenvolvimento de Sistemas (ADS) na FECAP. Concluí o Ensino Médio na Escola Ursa Maior e, desde então, venho me dedicando ao crescimento na área de tecnologia. Já realizei diversos cursos pela Fundação Bradesco e Microsoft, sempre buscando ampliar meus conhecimentos e conquistar novas oportunidades no mundo da tecnologia. Obrigado por visitar meu perfil! 🚀</p>&nbsp;
 
- &nbsp;
- &nbsp;
+## Minhas Skills
 
 
-## My Skills
-
-#### Main Stack:
 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
@@ -20,11 +16,12 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge\&logo=java\&logoColor=white)&nbsp;
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge\&logo=kotlin\&logoColor=white)&nbsp;
 
-
+&nbsp;
+&nbsp;
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-#### Workstation Tools:
+
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)&nbsp;
